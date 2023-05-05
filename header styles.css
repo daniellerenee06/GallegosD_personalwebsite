@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.header_rule {
+    display: block;
+    width: 100%;
+    font-family: default font;
+    background-color: #B5E8E7;
+}
+.navbar {
+    float: left;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 14px;
+    padding-right: 4px;
+    padding-left: 20px;
+    padding-bottom: 14px;
+    -webkit-box-shadow: 0px 0px #E8BCE4;
+    box-shadow: 0px 0px #E8BCE4;
+    text-decoration: none;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.wrapper {
+    margin-top: 49px;
+    margin-bottom: 39px;
+    padding-top: 14px;
+    padding-left: 14px;
+    padding-bottom: 14px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
